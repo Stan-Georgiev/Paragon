@@ -25,6 +25,7 @@ public class FirstMod
 {
     // Define mod id in a common place for everything to reference
     //goon
+    //goonoid
     public static final String MOD_ID = "firstmod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
