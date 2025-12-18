@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "paragon:huge_geode"
+    }
+  ],
+  "result": {
+    "item": "paragon:geode",
+    "count": 9
+  }
+}

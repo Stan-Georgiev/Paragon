@@ -1,3 +1,6 @@
 {
-  "item.paragon.geode":"Geode"
+  "item.paragon.geode":"Geode",
+  "item.paragon.huge_geode": "Huge Geode",
+
+  "creativetab.paragon_tab": "Paragon"
 }
